@@ -1,1 +1,1 @@
-
+The Weather Dashboard is a responsive web application that allows users to search for current weather conditions in various cities. It fetches real-time weather data from the OpenWeatherMap API and displays key information such as temperature, humidity, wind speed, and a weather icon. The app is built using React and styled with Tailwind CSS to ensure a clean, modern, and mobile-friendly design.
