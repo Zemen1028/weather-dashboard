@@ -2,7 +2,6 @@
 
 A responsive weather dashboard built with React and Tailwind CSS that provides real-time weather information for cities worldwide using the OpenWeatherMap API.
 
-![Weather Dashboard Preview](https://via.placeholder.com/800x400.png?text=Weather+Dashboard+Preview)
 
 ## Features
 
